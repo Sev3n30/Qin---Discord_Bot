@@ -1,0 +1,21 @@
+{
+  "name": "qin---bot_discord",
+  "version": "1.0.0",
+  "description": "another discord bot",
+  "keywords": [
+    "qin-bot"
+  ],
+  "license": "ISC",
+  "author": "Arthur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  }
+}
